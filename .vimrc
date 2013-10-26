@@ -11,6 +11,8 @@ map <Leader>gdd :Git diff<CR>
 map <Leader>gdm :Git diff %<CR>
 map <Leader>gdf :Gdiff<CR>
 map <Leader>gg :Git 
+map <C-t> :CtrP<CR>
+map <Leader>t :CtrPBuffer<CR>
 
 nmap <F1> <Esc>
 imap <F1> <Esc>
